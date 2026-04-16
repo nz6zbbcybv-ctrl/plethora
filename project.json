@@ -1,0 +1,27 @@
+{
+  "overview": "Plethora Air Pura is a premium pitch-deck style website showcasing a smart air purification system. Built with a futuristic dark theme, neon glow accents, and glassmorphism cards, it presents the problem, solution, impact, and vision of clean air technology in a startup investor-ready format.",
+  "features": [
+    "Animated hero section with particle/smoke background effect",
+    "Problem section with real-world pollution stats and icon cards",
+    "Solution overview introducing Air Pura's smart purification system",
+    "Six glowing USP cards with hover animations",
+    "Visual four-step process flow diagram",
+    "Impact and Future Vision sections",
+    "Team & About section with project info",
+    "Final CTA with dual call-to-action design",
+    "Pure black dark theme with neon cyan and electric blue glow accents",
+    "Glassmorphism card design with smooth transitions"
+  ],
+  "category": "showcase",
+  "tags": [
+    "pitch-deck",
+    "air-purification",
+    "smart-cities",
+    "dark-theme",
+    "glassmorphism",
+    "animation",
+    "environmental",
+    "startup"
+  ],
+  "last_updated": "2026-04-16T11:01:21.411Z"
+}
